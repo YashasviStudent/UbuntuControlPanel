@@ -1,8 +1,6 @@
 composer require phpseclib/phpseclib
 Chart.js
 Apache2
-Php 7.4 Or higher
 openssl
 mbstring
 bcmath
-[Last Three Should Be there automatically.]
